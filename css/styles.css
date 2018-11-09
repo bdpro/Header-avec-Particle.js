@@ -1,0 +1,52 @@
+/*Header*/
+canvas {
+    margin-top: -10rem;
+    margin-bottom: -4rem;
+    max-height: 15rem;
+}
+
+.jumbotron {
+    max-height: 15rem !important;
+    margin-bottom: 0rem;
+    background: #0f0c29; 
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    border-radius: 0px;
+}
+
+/*Navbar*/
+.navbar {
+   
+    padding: 0rem;
+    margin-top: -3.5rem
+}
+
+.nav-link {
+
+  
+    color: white !important;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px grey;
+
+
+}
+
+
+
+.navbar a:hover {
+    color: #FFFF27 !important;
+
+}
+
+nav {
+    margin-bottom: 1rem;
+    padding-bottom: 0rem;
+    padding-top: 0rem;
+
+}
+
+h1 {
+   text-shadow: 2px 2px 2px #107bfd; 
+}
